@@ -3,7 +3,7 @@
 Welcome to the ECart application! This application provides a simple interface for managing items, shopping, and creating orders. Below you will find instructions on how to set up and use the application.
 
 **Setup**
-1. Clone the Repository:
+1.Clone the Repository:
 Clone the code repository to your local machine using the following command:
 git clone <repository-url>
 
@@ -31,14 +31,15 @@ Items Menu**
 > Upon clicking "Save", the order is created and added to the Orders table in the database.
 > "Back To Shopping" navigates back to shopping page from cart.
 
-****Additional Information**
-> **Database Schema:****
+**Additional Information**
+> **Database Schema:**
 The application's database (ECartDB) consists of four tables:
   **Categories**: Stores information about different item categories.
   **Items**: Contains details of individual items available for purchase.
   **Orders**: Records information about customer orders.
   **OrderDetails**: Stores the details of items included in each order.
-> **Running the Application:**
+
+>**Running the Application:**
 Make sure you have a web browser installed (preferably Google Chrome).
 Launch the application from VS.
 
