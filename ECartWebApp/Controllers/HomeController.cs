@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ECartWebApp.Models;
+using ECartWebApp.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,22 +10,23 @@ namespace ECartWebApp.Controllers
 {
     public class HomeController : Controller
     {
+        private ECartDBEntities objectECartDB;
+        public HomeController()
+        {
+            objectECartDB = new ECartDBEntities();
+        }
         // GET: Home
         public ActionResult Index()
         {
-            return View();
-        }
-        public ActionResult Contact()
-        {
-            return View();
-        }
-        public ActionResult About()
-        {
-            return View();
-        }
-        public ActionResult Service()
-        {
-            return View();
+            ItemViewModel objItemList = new ItemViewModel();
+            objItemList.CategorySelectListItem = (from categoryList in objectECartDB.Categories
+                                                  select new SelectListItem()
+                                                  {
+                                                      Text = categoryList.CategoryName,
+                                                      Value = categoryList.CategoryId.ToString(),
+                                                      Selected = true
+                                                  });
+            return View(objItemList);
         }
     }
 }

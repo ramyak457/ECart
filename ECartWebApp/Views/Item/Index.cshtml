@@ -10,6 +10,9 @@
         $("#btnSave").click(function () {
             SaveItem();
         });
+        $("#btnReset").click(function () {
+            ResetItem();
+        });
     });
 
     function ResetItem() {
@@ -99,6 +102,6 @@
     <div>
         <input type="button" value="Save" name="save" class="btn btn-primary" id="btnSave" />
         &nbsp;
-        <input type="button" value="Reset" name="reset" class="btn btn-danger" />
+        <input type="button" value="Reset" name="reset" class="btn btn-danger" id="btnReset" />
     </div>
 </div>

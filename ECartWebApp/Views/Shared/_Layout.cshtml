@@ -28,12 +28,6 @@
                         @Html.ActionLink("Home", "Index", "Home")
                     </li>
                     <li>
-                        @Html.ActionLink("Contact", "Contact", "Home")
-                    </li>
-                    <li>
-                        @Html.ActionLink("About", "About", "Home")
-                    </li>
-                    <li>
                         @Html.ActionLink("Item", "Index", "Item")
                     </li>
                     <li>
@@ -42,16 +36,12 @@
                 </ul>
                 @Html.Partial("_ShoppingCart")
             </div>
-            
+
         </div>
     </div>
 
     <div class="container body-content">
         @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET E-Cart</p>
-        </footer>
     </div>
 
     <script src="~/Scripts/jquery-1.10.2.min.js"></script>

@@ -1,7 +1,41 @@
-﻿
+﻿﻿@model ECartWebApp.ViewModel.ItemViewModel
 @{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-Commerce Application</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our E-Commerce Store!</h1>
+        <nav>
+            <ul>
+                <li><a href="/Shopping/Index">Shop Items</a></li>
+                <li><a href="/Item/Index">Add Products</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
 
+    <main>
+        <section id="Categories">
+            <h2>Categories</h2>
+            <div class="categories-list">
+                @foreach (var product in Model.CategorySelectListItem)
+                {
+                    <div class="product">
+                        <p>@product.Text</p>
+                    </div>
+                }
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 E-Commerce Store. All rights reserved.</p>
+    </footer>
+</body>
+</html>

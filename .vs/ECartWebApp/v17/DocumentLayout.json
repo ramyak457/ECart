@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\",
+  "WorkspaceRootPath": "C:\\ECart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\users\\sendm\\source\\repos\\ecartwebapp\\ecartwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\users\\sendm\\source\\repos\\ecartwebapp\\ecartwebapp\\views\\shopping\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\shared\\_shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\shared\\_shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\shopping\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\shopping\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\users\\sendm\\source\\repos\\ecartwebapp\\ecartwebapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\users\\sendm\\source\\repos\\ecartwebapp\\ecartwebapp\\viewmodel\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\viewmodel\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\users\\sendm\\source\\repos\\ecartwebapp\\ecartwebapp\\viewmodel\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\viewmodel\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\viewmodel\\shoppingcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\viewmodel\\shoppingcartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|c:\\ecart\\ecartwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02A13CC-8971-48BD-97D9-F6E71C26AC26}|ECartWebApp\\ECartWebApp.csproj|solutionrelative:ecartwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ECartWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T23:52:42.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
-              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
-              "ToolTip": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
-              "RelativeToolTip": "ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T21:51:13.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoppingController.cs",
-              "DocumentMoniker": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Controllers\\ShoppingController.cs",
-              "RelativeDocumentMoniker": "ECartWebApp\\Controllers\\ShoppingController.cs",
-              "ToolTip": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\Controllers\\ShoppingController.cs",
-              "RelativeToolTip": "ECartWebApp\\Controllers\\ShoppingController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwGQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T21:05:07.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderDetailModel.cs",
-              "DocumentMoniker": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\ViewModel\\OrderDetailModel.cs",
-              "RelativeDocumentMoniker": "ECartWebApp\\ViewModel\\OrderDetailModel.cs",
-              "ToolTip": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\ViewModel\\OrderDetailModel.cs",
-              "RelativeToolTip": "ECartWebApp\\ViewModel\\OrderDetailModel.cs",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T21:03:57.546Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:25:03.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\ViewModel\\OrderModel.cs",
-              "RelativeDocumentMoniker": "ECartWebApp\\ViewModel\\OrderModel.cs",
-              "ToolTip": "C:\\Users\\sendm\\source\\repos\\ECartWebApp\\ECartWebApp\\ViewModel\\OrderModel.cs",
-              "RelativeToolTip": "ECartWebApp\\ViewModel\\OrderModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shopping\\Index.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Shopping\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:24:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Shopping\\ShoppingCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:19:53.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Shared\\_ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Shared\\_ShoppingCart.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Shared\\_ShoppingCart.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Shared\\_ShoppingCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:23:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:17:49.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECartWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECartWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T00:17:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Web.config",
+              "RelativeDocumentMoniker": "ECartWebApp\\Web.config",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Web.config",
+              "RelativeToolTip": "ECartWebApp\\Web.config",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T00:02:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartModel.cs",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\ViewModel\\ShoppingCartModel.cs",
+              "RelativeDocumentMoniker": "ECartWebApp\\ViewModel\\ShoppingCartModel.cs",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\ViewModel\\ShoppingCartModel.cs",
+              "RelativeToolTip": "ECartWebApp\\ViewModel\\ShoppingCartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T21:03:40.317Z",
+              "WhenOpened": "2024-05-16T23:59:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ECartWebApp\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ECartWebApp\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:57:07.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ECart\\ECartWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECartWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ECart\\ECartWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECartWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:54:07.346Z",
               "EditorCaption": ""
             }
           ]
